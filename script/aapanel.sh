@@ -1,6 +1,7 @@
 #! /bin/bash
-# By Aaron
-# https://github.com/AaronYES/aaPanel
+# By Candisft
+# https://github.com/candisft/aaPanel
+# from AaronYES
 
 #彩色
 red(){
@@ -32,7 +33,7 @@ function start_menu(){
     clear
     purple " Thank you for using the aaPanel tool."
     purple " 请选择您的语言｜Please select your language"
-    purple " GitHub：https://github.com/AaronYES/aapanel"
+    purple " GitHub：https://github.com/candisft/aaPanel"
     yellow " ————————————————————————————————————————————————"
     green " 1. English"
     green " 2. 简体中文"
